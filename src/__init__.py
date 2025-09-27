@@ -1,0 +1,3 @@
+"""
+DocGenerator package.
+"""

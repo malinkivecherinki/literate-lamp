@@ -1,27 +1,32 @@
-# Project
+# DocGenerator
 
-## Update 89
+Automated documentation generator from code
 
-This project includes various utilities and tools.
+## Features
 
-### Features
+- Core functionality implementation
+- Well-documented codebase
+- Easy to use API
+- Extensible architecture
 
-- Feature 89
-- Utility functions
-- Configuration management
-
-### Installation
+## Installation
 
 \`\`\`bash
 npm install
+# or
+pip install -r requirements.txt
 \`\`\`
 
-### Usage
+## Usage
 
 \`\`\`javascript
-const utils = require('./src/utils');
+const DocGenerator = require('./src/index');
 \`\`\`
 
-### Changelog
+## Development
 
-- Update 89: Added new features and improvements
+This project is actively maintained and developed.
+
+## License
+
+MIT
