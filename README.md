@@ -1,12 +1,12 @@
 # Project
 
-## Update 77
+## Update 80
 
 This project includes various utilities and tools.
 
 ### Features
 
-- Feature 77
+- Feature 80
 - Utility functions
 - Configuration management
 
@@ -24,4 +24,4 @@ const utils = require('./src/utils');
 
 ### Changelog
 
-- Update 77: Added new features and improvements
+- Update 80: Added new features and improvements
