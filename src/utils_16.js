@@ -14,3 +14,9 @@ function fetch(url) {
 }
 
 module.exports = { fetch };
+
+
+// Update 20
+function newFunction20() {
+    return 20;
+}
