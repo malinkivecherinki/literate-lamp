@@ -26,3 +26,9 @@ function newFunction20() {
 function newFunction25() {
     return 25;
 }
+
+
+// Update 40
+function newFunction40() {
+    return 40;
+}
